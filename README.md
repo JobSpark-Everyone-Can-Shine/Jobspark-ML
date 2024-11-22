@@ -1,4 +1,4 @@
-# ✨ JobSpark ✨ <br> Everyone can shine (Team C242-PS247)
+# ✨ JobSpark ✨ <br> Everyone Can Shine (Team C242-PS247)
 
 ## ML-Path Members
 
