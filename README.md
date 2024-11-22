@@ -9,4 +9,4 @@
 | 3  | Amil Al Kadri                          | M214B4KY0436       | Machine Learning    | Universitas Islam Indonesia             |
 
 About
-JobSpark-ML is an AI-powered module designed to bridge the gap between individuals with Down syndrome and meaningful job opportunities. The project utilizes CNN-based image classification to detect Down syndrome and a personalized job recommendation system built on user profiling, including hobbies, skills, and health conditions. The ultimate goal is to foster inclusivity and empower users to access relevant job opportunities in an ethical, fair, and secure manner.
+JobSpark-ML is an Machine Learning module designed to bridge the gap between individuals with Down syndrome and meaningful job opportunities. The project utilizes CNN-based image classification to detect Down syndrome and a personalized job recommendation system built on user profiling, including hobbies, skills, and health conditions. The ultimate goal is to foster inclusivity and empower users to access relevant job opportunities in an ethical, fair, and secure manner.
