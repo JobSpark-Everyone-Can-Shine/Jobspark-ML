@@ -10,11 +10,11 @@
 
 ## 🏆 Team Members
 
-| No | Name                                   | Role              | University                              | Bangkit ID          |
-|----|----------------------------------------|-------------------|-----------------------------------------|---------------------|
-| 1  | Tadeus Vito Gavra Sitanggang           | ML Engineer       | UPN "Veteran" Yogyakarta               | M297B4KY4285        |
-| 2  | Muhamad Rafif Rezha Firmansyah         | ML Researcher     | UPN "Veteran" Yogyakarta               | M297B4KY2653        |
-| 3  | Amil Al Kadri                          | ML Developer      | Universitas Islam Indonesia             | M214B4KY0436        |
+| No | Name                                   | University                             | Bangkit ID          |
+|----|----------------------------------------|----------------------------------------|---------------------|
+| 1  | Tadeus Vito Gavra Sitanggang           | UPN "Veteran" Yogyakarta               | M297B4KY4285        |
+| 2  | Muhamad Rafif Rezha Firmansyah         | UPN "Veteran" Yogyakarta               | M297B4KY2653        |
+| 3  | Amil Al Kadri                          | Universitas Islam Indonesia            | M214B4KY0436        |
 
 ---
 
@@ -53,7 +53,7 @@ JobSpark is more than just a machine learning project—it's a solution designed
 - **Goal**: Create a sensitive and adaptive matching system
 
 ### Personalized Job Recommendation System 💼
-- **Approach**: Advanced profiling algorithm
+- **Approach**: Content Based Filtering algorithm
 - **Data Points**: 
   - User hobbies
   - Skills assessment
