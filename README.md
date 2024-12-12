@@ -4,7 +4,8 @@
 </div>
   
 <div align="center">
-  
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-008CBA?style=for-the-badge&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
