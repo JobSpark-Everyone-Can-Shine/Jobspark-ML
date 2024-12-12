@@ -133,18 +133,3 @@ JobSpark/
    jupyter notebook JobSpark_Job_Recommendations.ipynb
    ```
    
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
-## 🙏 Acknowledgments
-
-Heartfelt gratitude to the Bangkit Program and our mentors for their unwavering support and guidance.
-
----
-
-**Together, we can create opportunities and spark potential!**
