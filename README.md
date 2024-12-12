@@ -20,11 +20,11 @@
 
 ## 🏆 Team Members
 
-| No | Name                                   | University                             | Bangkit ID          |
-|----|----------------------------------------|----------------------------------------|---------------------|
-| 1  | Tadeus Vito Gavra Sitanggang           | UPN "Veteran" Yogyakarta               | M297B4KY4285        |
-| 2  | Muhamad Rafif Rezha Firmansyah         | UPN "Veteran" Yogyakarta               | M297B4KY2653        |
-| 3  | Amil Al Kadri                          | Universitas Islam Indonesia            | M214B4KY0436        |
+| No | Name                                   | Bangkit ID          | Learning Path       | University                     | Contacs                        | 
+|----|----------------------------------------|---------------------|---------------------|--------------------------------|--------------------------------|
+| 1  | Tadeus Vito Gavra Sitanggang           | M297B4KY4285        | Machine learning    | UPN "Veteran" Yogyakarta       | https://github.com/tadeusvito  |
+| 2  | Muhamad Rafif Rezha Firmansyah         | M297B4KY2653        | Machine learning    | UPN "Veteran" Yogyakarta       | https://github.com/rafifrezha  |
+| 3  | Amil Al Kadri                          | M214B4KY0436        | Machine learning    | Universitas Islam Indonesia    | https://github.com/alkadriamil |
 
 ---
 
