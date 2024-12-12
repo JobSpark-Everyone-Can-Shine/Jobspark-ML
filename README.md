@@ -1,5 +1,9 @@
-# 🌟 JobSpark 🌟 <br> Everyone Can Shine (Team C242-PS247)
+<p align="center">
+  <h1 align="center">✨ JobSpark ✨<br> Everyone can shine <br>(C242-PS247)</h1>
+  <div align="center">
 
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ---
 
 ## About
@@ -137,4 +141,4 @@ Heartfelt gratitude to the Bangkit Program and our mentors for their unwavering 
 
 ---
 
-**Together, we can create opportunities and spark potential! 🌈**
+**Together, we can create opportunities and spark potential!**
