@@ -49,8 +49,7 @@ JobSpark is more than just a machine learning project—it's a solution designed
   - Keras
   - Pandas
   - NumPy
-- **Deployment**: Docker, TensorFlow Serving
-- **Version Control**: Git, GitHub
+- **Version Control**: GitHub
 - **Notebooks**: Jupyter for prototyping and development
 
 ---
