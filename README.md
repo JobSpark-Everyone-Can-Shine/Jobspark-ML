@@ -1,11 +1,12 @@
-<p align="center">
+<div align="center">
+  <p align="center">
   <h1 align="center">✨ JobSpark ✨<br> Everyone can shine <br>(C242-PS247)</h1>
-  <div align="center">
+  ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+</div>
+  
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ---
-
 ## About
 
 **JobSpark-ML** is a Machine Learning module designed to bridge the gap between individuals with Down syndrome and meaningful job opportunities. The project utilizes CNN-based image classification to detect Down syndrome and a personalized job recommendation system built on user profiling, including hobbies, skills, and health conditions. The ultimate goal is to foster inclusivity and empower users to access relevant job opportunities in an ethical, fair, and secure manner.
